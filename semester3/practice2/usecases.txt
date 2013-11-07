@@ -1,0 +1,65 @@
+Name: Picture in Picture
+Trigger: Der aktuellen Sender soll in einer Ecke weiterlaufen
+Primary Actor: Benutzer
+Course:
+    1. Benutzer öffnet Menü
+    2. Benutzer wählt Picture-in-Picture-Icon und bestätigt
+
+----
+
+Name: Timeshift
+Trigger: Das aktuelle Programm soll pausiert/weitergespielt werden
+Primary Actor: Benutzer
+Course:
+    1. Benutzer öffnet Menü
+    2. Benutzer wählt Timeshift
+
+----
+
+Name: Kanäle scannen
+Trigger: Die Kaneäle sollen (erneut) gescannt werden
+Primary Actor: Benutzer
+Course:
+    1. Benutzer öffnet Menü
+    2. Benutzer wählt "..." (Erweitert)
+    3. Benutzer navigiert zu "Kanäle Scannen" und bestätigt
+
+----
+
+Name: Seitenverhältnis anpassen
+Trigger: Das Seitenverhältnis soll geändert werden
+Primary Actor: Benutzer
+Course:
+    1. Benutzer öffnet Menü
+    2. Benutzer wählt "..." (Erweitert)
+    3. Benutzer navigiert zu "Seitenverhältnis" und wählt das gewünschte mit den Pfeiltasten Links/Rechts
+
+----
+
+Name: Eingang wechseln
+Trigger: Der Eingang soll geändert werden
+Primary Actor: Benutzer
+Course:
+    1. Benutzer öffnet Menü
+    2. Benutzer wählt "..." (Erweitert)
+    3. Benutzer navigiert zu "Eingang" und wählt den gewünschten Eingang mit den Pfeiltasten Links/Rechts
+
+----
+
+Name: Sprache wechseln
+Trigger: Die Sprache soll gewechselt werden
+Primary Actor: Benutzer
+Course:
+    1. Benutzer öffnet Menü
+    2. Benutzer wählt "..." (Erweitert)
+    3. Benutzer navigiert zu "Sprache" und wählt die gewünschten Sprache mit den Pfeiltasten Links/Rechts
+
+----
+
+Name: Sleep-Timer aktivieren
+Trigger: Der Sleep-Timer soll aktiviert werden
+Primary Actor: Benutzer
+Course:
+    1. Benutzer öffnet Menü
+    2. Benutzer wählt "..." (Erweitert)
+    3. Benutzer navigiert zu "Sleep Timer" und wählt die gewünschten Zeit mit den Pfeiltasten Links/Rechts
